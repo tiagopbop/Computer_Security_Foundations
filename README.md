@@ -1,4 +1,5 @@
-
+## About
+This repository contains the exercises developed throughout the semester. <br>
 * Turno: [2]14
 * Grupo: 06
 * Alunos:
